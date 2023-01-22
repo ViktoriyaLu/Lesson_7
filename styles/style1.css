@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: grid;
+    gap: 5px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-rows: repeat(6, 100px);
+}
+.image1 {
+     background-color: aqua;
+}
+.image2 {
+    background-color:brown;
+}
+.image3 {
+    background-color: red;
+}
+.image4 {
+    background-color:yellow;
+}
+.image5 {
+    background-color: green;
+}
+.image6 {
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

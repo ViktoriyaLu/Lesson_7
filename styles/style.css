@@ -4,8 +4,7 @@
 }
 .container {
     display: grid;
-    width: 100%;
-    min-height: 700px;
+    width: 100%; min-height: 700px;
     grid-template-areas: "header header"
     "main sidebar"
     "footer footer";
